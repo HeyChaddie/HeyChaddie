@@ -1,6 +1,6 @@
-<h2>Hi, I slave myself with misery using:</h2>
-<h3>:computer: - I mash my keyboard on:</h3>
-<p>
+<h3>Hello there, I'm Richard and I slave myself with misery using:</h2>
+<h4 align="center">:computer: - I mash my keyboard on:</h4>
+<p align="center">
   
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -12,8 +12,8 @@
 
 </p>
 
-<h3>:pencil2: - I choose my crayons on:</h3>
-<p>
+<h4 align="center">:pencil2: - I choose my crayons on:</h4>
+<p align="center">
 
   <img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
@@ -26,20 +26,22 @@
   
 </p>
 
-<h3>:robot: - I rock with these OS:</h3>
-<p>
+<h4 align="center">:robot: - I rock with these OS:</h4>
+<p align="center">
   
   <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 </p>
 
-<h3>:house: - Pay me a visit on:</h3>
-<p>
-
-  <a href="https://www.linkedin.com/in/richard-salcedo-135165165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h4 align="center">:house: - Pay me a visit on:</h4>
+<div align="center">
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/richard-salcedo-135165165/" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
 </p>
+</div>
 
 <!--
 **HeyChaddie/HeyChaddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
