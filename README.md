@@ -1,4 +1,4 @@
-<h3>Hello there, I'm Richard and I slave myself with misery using:</h2>
+<h3 align="center">Hello there, I'm Richard and I slave myself with misery using:</h2>
 <h4 align="center">:computer: - I mash my keyboard on:</h4>
 <p align="center">
   
