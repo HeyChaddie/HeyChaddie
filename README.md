@@ -1,6 +1,6 @@
 <h2>Hi, I slave myself with misery using:</h2>
-<h3>I mash my keyboard on:</h3>
-<p class="content-badges">
+<h3>:computer: - I mash my keyboard on:</h3>
+<p>
   
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -12,7 +12,7 @@
 
 </p>
 
-<h3>I choose my crayons on:</h3>
+<h3>:pencil2: - I choose my crayons on:</h3>
 <p>
 
 <img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
@@ -26,7 +26,7 @@
   
 </p>
 
-<h3>I rock with these OS:</h3>
+<h3>:robot: - I rock with these OS:</h3>
 <p>
   
 <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
@@ -34,7 +34,7 @@
 
 </p>
 
-<h3>Haunt me here:</h3>
+<h3>:house: - Pay me a visit on:</h3>
 <p>
 
 <a href="https://www.linkedin.com/in/richard-salcedo-135165165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
