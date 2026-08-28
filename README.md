@@ -38,7 +38,6 @@
 </p>
 
 <h3>:house: - Pay me a visit on:</h3>
-<br>
 <p>
 
 <a href="https://www.linkedin.com/in/richard-salcedo-135165165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
