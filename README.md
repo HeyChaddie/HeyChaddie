@@ -1,5 +1,6 @@
 <h2>Hi, I slave myself with misery using:</h2>
 <h3>:computer: - I mash my keyboard on:</h3>
+<br>
 <p>
   
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -11,8 +12,10 @@
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
-
+<br>
+<hr>
 <h3>:pencil2: - I choose my crayons on:</h3>
+<br>
 <p>
 
 <img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
@@ -25,7 +28,9 @@
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   
 </p>
-
+<br>
+<hr>
+<br>
 <h3>:robot: - I rock with these OS:</h3>
 <p>
   
@@ -33,13 +38,16 @@
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 </p>
-
+<br>
+<hr>
+<br>
 <h3>:house: - Pay me a visit on:</h3>
 <p>
 
 <a href="https://www.linkedin.com/in/richard-salcedo-135165165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
 </p>
+<br>
 
 <!--
 **HeyChaddie/HeyChaddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
