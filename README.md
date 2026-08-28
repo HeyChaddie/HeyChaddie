@@ -13,7 +13,7 @@
 </p>
 
 <h3>My Design Processes</h3>
-<p class="content-badges">
+<p>
 
 <img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
@@ -27,18 +27,19 @@
 </p>
 
 <h3>I rock with these OS</h3>
-<p class="content-badges">
+<p>
   
 <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 </p>
 
-<img alt="Doordash" src="https://img.shields.io/badge/DoorDash-FF3008?style=for-the-badge&logo=DoorDash&logoColor=white" />
+<h3>Haunt me here</h3>
+<p>
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-
+<a href="https://www.linkedin.com/in/richard-salcedo-135165165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+</p>
 
 <!--
 **HeyChaddie/HeyChaddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
