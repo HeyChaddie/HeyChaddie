@@ -1,6 +1,5 @@
 <h2>Hi, I slave myself with misery using:</h2>
 <h3>:computer: - I mash my keyboard on:</h3>
-<br>
 <p>
   
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -14,7 +13,6 @@
 </p>
 
 <h3>:pencil2: - I choose my crayons on:</h3>
-<br>
 <p>
 
 <img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
@@ -29,7 +27,6 @@
 </p>
 
 <h3>:robot: - I rock with these OS:</h3>
-<br>
 <p>
   
 <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
