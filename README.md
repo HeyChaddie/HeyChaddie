@@ -1,5 +1,6 @@
 <h2>Hi, I slave myself with misery using:</h2>
 <h3>:computer: - I mash my keyboard on:</h3>
+
 <br>
 <p>
   
@@ -13,7 +14,7 @@
 
 </p>
 <br>
-<hr>
+
 <h3>:pencil2: - I choose my crayons on:</h3>
 <br>
 <p>
@@ -29,7 +30,7 @@
   
 </p>
 <br>
-<hr>
+
 <br>
 <h3>:robot: - I rock with these OS:</h3>
 <p>
@@ -39,7 +40,7 @@
 
 </p>
 <br>
-<hr>
+
 <br>
 <h3>:house: - Pay me a visit on:</h3>
 <p>
